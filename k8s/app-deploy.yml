@@ -22,4 +22,4 @@ spec:
         env:
         - name: MONGODB_URI
           value: "mongodb://mongo-service:27017/userdb"
-        - name: MONGODB_HOST
+
